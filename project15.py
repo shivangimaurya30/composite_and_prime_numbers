@@ -1,4 +1,4 @@
-
+# This program finds whether the the range of number is prime or composite
 x=int(input("Enter the lower limit: "))
 y=int(input("Enter the upper limit: "))
 s=0
